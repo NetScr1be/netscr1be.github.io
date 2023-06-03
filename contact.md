@@ -1,6 +1,8 @@
+---
 layout: page
 title: "Contact"
 permalink: /about/contact/
+---
 
 <!doctype html>
 <!--[if lte IE 9]>
